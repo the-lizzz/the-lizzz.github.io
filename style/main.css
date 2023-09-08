@@ -1,0 +1,19 @@
+body {  
+    background-color: #282828;
+    color:wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+    text-align: center;
+}
+.left{
+    margin-left:5px;
+}
+a{
+    text-decoration: none !important;
+    color:wheat; 
+}
+.profile{
+    margin-top: 50px;
+    width: 260px;
+}
